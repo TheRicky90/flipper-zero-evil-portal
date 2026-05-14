@@ -47,6 +47,9 @@ Thank you so much to the following contributors for providing awesome portals.
 - `Frequency.html` by [roshanravan](https://github.com/roshanravan)
 - `La Posta SwissIDfake.html` by [TheRicky90](https://github.com/TheRicky90)
 - `ffs-fakeSwissID` by [TheRicky90](https://github.com/TheRicky90)
+- `ffs-fakeSwissIDIT` by [TheRicky90](https://github.com/TheRicky90)
+- `ffs-fakeSwissIDGER` by [TheRicky90](https://github.com/TheRicky90)
+- `ffs-fakeSwissIDFR` by [TheRicky90](https://github.com/TheRicky90)
 
 ## Disclaimer
 
