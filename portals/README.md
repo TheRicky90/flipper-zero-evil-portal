@@ -45,6 +45,8 @@ Thank you so much to the following contributors for providing awesome portals.
 - `Twitch.html` by [roshanravan](https://github.com/roshanravan)
 - `apple.html` by [Jules](https://github.com/jules0835)
 - `Frequency.html` by [roshanravan](https://github.com/roshanravan)
+- `La Posta SwissIDfake.html` by [TheRicky90](https://github.com/TheRicky90)
+- `ffs-fakeSwissID` by [TheRicky90](https://github.com/TheRicky90)
 
 ## Disclaimer
 
